@@ -1,8 +1,7 @@
 
 <h1 align="center"> Hi, I’m Hanna</h1>
 
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" align="right" width="40%" height="auto"/>
-<p align="left"></p>
+
 👋 Hej hej! Nice to meet you! I'm a frontend developer with a background in...all kinds of things, from linguistics and translation to child care and sales. It's been a wild ride, but I'm here now and I'm loving it!<br><br/>
 
 🤩 Turns out coding is my true calling - I'm driven, determined, and not afraid to tackle even the toughest bugs!<br><br/>
