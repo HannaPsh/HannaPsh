@@ -1,18 +1,7 @@
 
-<h1 align="center"> Hi, I’m Hanna</h1>
-
-
-👋 Hej hej! Nice to meet you! I'm a frontend developer with a background in...all kinds of things, from linguistics and translation to child care and sales. It's been a wild ride, but I'm here now and I'm loving it!<br><br/>
-
-🤩 Turns out coding is my true calling - I'm driven, determined, and not afraid to tackle even the toughest bugs!<br><br/>
-
 💪 My favorite tool in the toolbox? React, hands down! I just can't get enough of this awesome framework! It's so much more than just a tool - it's a way of life! 😍 🤪<br><br/>
 
-🤝 Let's team up and create something awesome! I'm itching to collaborate on a project that uses various JavaScript libraries, frameworks, run-time environments <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" backgroundClor="white" /> , and whatever helps us to create those awesome things.<br><br/>
-
-🎯 In the future, I want to be full stack, but let us take one thing at a time. I am learning. Front end is fun. Full-stack, I am coming!<br><br/>
-
-🎓 Earned my frontend development stripes at a Swedish yrkeshögskola (Higher Vocational Education) - you know, that crazy Swedish place where dreams come true!
+🎓 Earned my frontend development stripes at a Swedish yrkeshögskola (Higher Vocational Education).
 
 
 <h3 align="center">Languages and Tools:</h3>
